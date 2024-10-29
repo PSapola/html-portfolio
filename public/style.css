@@ -1,0 +1,59 @@
+#bio{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #DBE2EF;
+  padding: 20px;
+  width: 100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+hr{
+    margin: 0;
+    border: none;
+}
+
+#nhh{
+    color: #3F72AF;
+    text-decoration-line: none;
+    font-style: oblique;
+}
+#entire{
+    background-color: #F9F7F7;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;    
+}
+
+
+#birthday, #movie, #name{
+    padding: 20px;
+}
+
+#about{
+    padding: 25px 0; 
+    margin: 0;
+    width: 100%;
+    background-color: #DBE2EF; 
+    box-sizing: border-box;
+    text-align: center;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#birth, #film, #diamond {
+    color: #3F72AF;
+    text-decoration: none;
+}
